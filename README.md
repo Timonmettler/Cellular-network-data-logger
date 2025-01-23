@@ -1,5 +1,11 @@
 # Cellular-network-data-logger
-Code for a cellular data logger running on a Pi Pico with micropython
+Code for a cellular data logger running on a Pi Pico with micropython.
+
+Load the main code and all the libraries to the PI Pico. 
+
+calibration_HX711 is used to get the RAW value and calibration factor for your load cells.
+Set_RTC is used to set the RTC time similar to you PC time.
+Thermocouple_test s used to test the thermocouple.
 
 
 
