@@ -1,6 +1,5 @@
 # Cellular-network-data-logger
 Code for a cellular data logger running on a Pi Pico with micropython
-The connections for the data logger can be found as a seperate file.
 
 Parts required: 
 
@@ -20,3 +19,6 @@ Parts required:
   environments.
 • Voltage Regulator (LM3940): Regulating the voltage from 5V to 3.3V to ensure safe
   operation.
+
+The wiring diagram is as followed:
+![wiring_diagramm (1)](https://github.com/user-attachments/assets/9675abd5-8d98-4bf3-b570-91a33c6ad89a)
