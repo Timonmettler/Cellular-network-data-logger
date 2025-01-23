@@ -1,6 +1,8 @@
 # Cellular-network-data-logger
 Code for a cellular data logger running on a Pi Pico with micropython
 
+
+
 Parts required: 
 
 • Microcontroller (Raspberry Pi Pico): Serving as the central processing unit to manage
